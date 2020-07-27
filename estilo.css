@@ -1,0 +1,34 @@
+html, body {
+    margin: 0;
+}
+#imagem_fundo {
+    background: url("accounting-analytics-balance-black-and-white-209224.jpg");
+    height: 100%;
+    text-align: center;
+}
+#titulo {
+    color:black;
+    padding-top: 20%;
+    font-size: 50px;
+}
+#subtitulo {
+    color: black;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+#acao {
+    color: black;
+    border: 1px white solid;
+    padding: 10px 20px 10px 20px;
+}
+.icone {
+    width: 1700px;
+}
+#titulo_objetivos {
+    background-color: #eee;
+    padding-left: 50px;
+}
+.texto {
+    padding: 10px;
+    padding-left: 50px;
+}
